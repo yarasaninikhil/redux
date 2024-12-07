@@ -1,0 +1,143 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "img": "https://howlongtobeat.com/games/24617_Subway_Surfers.png",
+      "name": "subway surfers",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "name2": "Rate The Now",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "4.4",
+      "desc": "Help Jake,Tricky & Fresh exscape from the grumpy ",
+      "Dow": "Dowload",
+      "mb":"1.0GB",
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png"
+    },
+    {
+      "id": "2",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp/180px-PlayerUnknown%27s_Battlegrounds_Mobile.webp.png",
+      "name": "PUBG Mobile",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "name2": "Rate The Now",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "4.5",
+      "desc": "Pubg Mobile offers the most intense multiplayer battles on your mobile phone",
+      "Dow": "Dowload",
+      "mb":"1.5GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png"
+    },
+    {
+      "id": "3",
+      "img": "https://cdn.prod.website-files.com/5fd48c67bfe96103e696a791/625474b0121d854546d5e419_Garena-Free-Fire.jpeg",
+      "name": "Garena Free Fire",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "name2": "Rate The Now",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.4",
+      "desc": "Free Fire is the ultimate survival shooter game available on mobile.",
+      "Dow": "Dowload",
+      "mb":"1.2GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png"
+    },
+    {
+      "id": "4",
+      "img": "https://wallpapers.com/images/featured/call-of-duty-pictures-7lrqnchbx478ucgg.jpg",
+      "name": "Call Of Duty",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "name2": "Rate The Now",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "4.7",
+      "Dow": "Dowload",
+      "mb":"1.6GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png",
+      "desc": "Call of Duty is a first-person shooter (FPS) video game franchise that includes a variety of games with different themes and gameplay"
+    },
+    {
+      "id": "5",
+      "img": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/b5c8b617f65be7cc4d56dd3657590ae7.png",
+      "name": "Temple Run 2",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.4",
+      "Dow": "Dowload",
+      "mb":"1.0GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png",
+      "desc": "an infinite runner where the player must escape from his enemy and avoid all the obstacles and traps that are found along the way."
+    },
+    {
+      "id": "6",
+      "img": "https://images.crazygames.com/car-games-car-racing-game_16x9/20240628180656/car-games-car-racing-game_16x9-cover?auto=format,compress&q=75&cs=strip",
+      "name": "Car Racing",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.4",
+      "desc": "a video game where the player controls a vehicle and competes in a race against other players or a computer-controlled opponent",
+      "Dow": "Dowload",
+      "mb":"900MB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png"
+    },
+    {
+      "id": "7",
+      "img": "https://m.media-amazon.com/images/I/81I2fdZn92L.png",
+      "name": "candy crush",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.4",
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png",
+      "desc": "players complete levels by swapping colored pieces of candy on a game board to make a match of three or more of the same color",
+      "Dow": "Dowload",
+      "mb":"1.2GB"
+
+    },
+    {
+      "id": "8",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png",
+      "name": "Angry Birds",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.4",
+      "Dow": "Dowload",
+      "mb":"1.23GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png",
+      "desc": "a Finnish media franchise of puzzle, action, and strategy video games that centers around a flock of angry birds trying to save their eggs from green pigs"
+    },
+    {
+      "id": "9",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2024/1/373930246/AK/QU/JS/184701247/ludo-board-game-500x500.png",
+      "name": "Ludo Board",
+      "img2": "https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png",
+      "icon": "https://cdn0.iconfinder.com/data/icons/glyphpack/37/star-512.png",
+      "rate": "3.7",
+      "Dow": "Dowload",
+      "mb":"1.34GB",
+
+      "dow": "https://static.vecteezy.com/system/resources/previews/015/337/688/non_2x/download-download-icon-free-png.png",
+      "desc": "a board game where players take turns rolling dice to move their pieces around a board and try to reach the center before their opponents"
+    }
+  ],
+  
+  "registration": [
+    {
+      "id": "32a3",
+      "username": "yarasaninikhil@gmail.com",
+      "email": "yarasaninikhil@gmail.com",
+      "password": "3",
+      "phonenumber": "",
+      "confirmPassword": "3"
+    }
+  
+  ],
+  "admin": [
+    {
+      "user": "nikhil",
+      "password": "987654321",
+      "id": "794a"
+    }
+  ]
+}

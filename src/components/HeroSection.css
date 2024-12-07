@@ -1,0 +1,126 @@
+/* General Styles */
+.hero {
+    position: relative;
+    width: 100%;
+    height: auto;
+    /* background-color:whitesmoke; */
+
+  }
+  
+  .hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    height: 100%;
+
+  }
+  
+  .hero-content {
+    max-width: 50%;
+    padding: 20px;
+  }
+  
+  .now {
+    font-size: 1.5rem;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .game {
+    font-size: 3rem;
+    color: #333;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 20px;
+  }
+  
+  .scanner {
+    margin-top: 30px;
+  }
+  
+  .scanner img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .scan {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .para {
+    font-size: 1rem;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .App-img {
+    max-width: 40%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .App-img img {
+    width: 420px;
+    height: 490px;
+    border-radius: 2%;
+    /* height: auto; */
+  }
+  .App-img:hover img{
+ 
+      transform: scale(1.02); }
+  
+
+  @media (max-width: 768px) {
+    .hero-section {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .hero-content {
+      max-width: 100%;
+      padding: 20px;
+    }
+  
+    .game {
+      font-size: 2rem;
+    }
+  
+    .scanner img {
+      width: 120px;
+      height: 120px;
+    }
+  
+    .para {
+      font-size: 0.9rem;
+    }
+  
+    .App-img img {
+      width: 200px;
+      height: auto;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .game {
+      font-size: 1.5rem;
+    }
+  
+    .scanner img {
+      width: 100px;
+      height: 100px;
+    }
+  
+    .para {
+      font-size: 0.85rem;
+    }
+  
+    .App-img img {
+      width: 180px;
+      height: auto;
+    }
+  }
+  

@@ -1,0 +1,144 @@
+/* General Styles */
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+  }
+  
+  .card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 360px;
+    height: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .game-img {
+    width: 100%;
+    height: 330px;
+    overflow: hidden;
+    border-radius: 4px;
+    background-position: center;
+  }
+  
+  .game-img img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover .game-img img {
+    transform: scale(1.05); 
+  }
+  .mb{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 50px;
+  }
+  .game-ny {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .game-ny h3 {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+  }
+  
+  .game-ny h4 {
+    margin: 0 0 15px 0;
+    font-size: 18px;
+    color: #888;
+  }
+  
+  .game-hd {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .game-hd img {
+    width: 30px;
+    height: 30px;
+    /* background-color: white; */
+  }
+  
+  .game-ny p {
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .game-button {
+    text-align: center;
+  }
+  
+  .game-button a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+
+  @media (max-width: 768px) {
+    .games {
+      padding: 10px;
+    }
+  
+    .card {
+      width: 100%;
+    }
+  
+    .game-hd img {
+      width: 30px;
+      height: 30px;
+    }
+  
+    .game-ny h3 {
+      font-size: 18px;
+    }
+  
+    .game-ny h4 {
+      font-size: 16px;
+    }
+  
+    .game-ny p {
+      font-size: 14px;
+    }
+  
+    .game-button a {
+      padding: 8px 16px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .game-hd img {
+      width: 25px;
+      height: 25px;
+    }
+  
+    .game-ny h3 {
+      font-size: 16px;
+    }
+  
+    .game-ny h4 {
+      font-size: 14px;
+    }
+  
+    .game-ny p {
+      font-size: 12px;
+    }
+  
+    .game-button a {
+      padding: 6px 12px;
+    }
+  }
+  

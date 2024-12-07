@@ -1,0 +1,68 @@
+/* Container for the AdminPage */
+.add-movies {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  /* Container for add and delete buttons */
+  .ad-movie {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  /* General button styling */
+  .ad-movie button, .shows button, .d-shows button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .ad-movie button:hover, .shows button:hover, .d-shows button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styling for the add and delete form sections */
+  .shows, .d-shows {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Styling for input fields and labels */
+  .shows label, .d-shows label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .shows input, .d-shows input, .shows textarea, .d-shows textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .shows input:focus, .d-shows input:focus, .shows textarea:focus, .d-shows textarea:focus {
+    border-color: #66afe9;
+    outline: none;
+    box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+  }
+  
+  /* Container for fetched movie details */
+  .d-shows div {
+    background-color: #eef;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
